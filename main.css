@@ -1,0 +1,36 @@
+body{
+    font-family:'ZCOOL XiaoWei', serif;
+    font-size: 300%;
+    background-image: url("bg.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.container {
+    width: 80%;
+    margin: auto;
+    text-align: center
+}
+
+img {
+    border-radius: 5%;
+    border: 1px solid black;
+    box-shadow: 5px 10px 10px 
+}
+ul {
+    margin: 5%;
+    box-shadow: 5px 10px 10px black;
+}
+li {
+    padding-right: 5%;
+}
+li button{
+display: inline;
+float: left;
+margin: 4%;
+}
+
+li .add {
+    display: block;
+    float: right;
+}
+
